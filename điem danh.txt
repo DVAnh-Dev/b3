@@ -1,1 +1,4 @@
-Điểm danh tại đây
+Điểm danh tại đây 
+
+
+Fix bug
